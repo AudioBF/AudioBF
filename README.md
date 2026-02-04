@@ -3,12 +3,7 @@
  <p>Since an early age, I developed a fascination for the world of computers and problem-solving through logic. My interest in programming began when I had my first encounter with programming languages during my studies. From that moment on, I became hooked on exploring the endless possibilities that software development offers.</p>
  <p>Over the years, I have dedicated myself to improving my programming skills and acquiring knowledge in different technology areas. I have experience in HTML, CSS, JS, REACT. I am always eager to learn new languages, frameworks, and tools that can help me tackle increasingly complex challenges.</p>
 <br>
- <div>
-   <a href="https://github.com/AudioBF">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AudioBF&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudioBF&layout=compact&langs_count=6&theme=transparent"/>
-</div><br>
-  <br>
+<br>
  
  #### I am always open to new opportunities and connections in the programming world. If you'd like to discuss ideas, collaborate on projects, or simply have a chat, feel free to reach out to me. 
   ### Social media!
