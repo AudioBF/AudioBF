@@ -1,16 +1,52 @@
-## Hello! I'm Audio Fagundes, a programming enthusiast and technology lover. Welcome to my GitHub profile!
+# Audio Fagundes
 
- <p>Since an early age, I developed a fascination for the world of computers and problem-solving through logic. My interest in programming began when I had my first encounter with programming languages during my studies. From that moment on, I became hooked on exploring the endless possibilities that software development offers.</p>
- <p>Over the years, I have dedicated myself to improving my programming skills and acquiring knowledge in different technology areas. I have experience in HTML, CSS, JS, REACT. I am always eager to learn new languages, frameworks, and tools that can help me tackle increasingly complex challenges.</p>
-<br>
- 
- #### I am always open to new opportunities and connections in the programming world. If you'd like to discuss ideas, collaborate on projects, or simply have a chat, feel free to reach out to me. 
-  ### Social media!
- 
-<div> 
-  <a href="https://www.linkedin.com/in/audio-fagundes-000b78186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/audiofagundes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/audin.fagundes/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-</div>
- <br>
-<p> Thank you for visiting my profile, and I hope you find something useful or inspiring here. Let's create an amazing technological future together!</p>
+> `AI Engineer · Physics Background · Dublin 🇮🇪`
+
+**Building intelligent systems** with LLMs, Transformers, and Agentic AI — from Physics to production-ready ML.
+
+---
+
+## 🧠 What I build
+
+- **Agentic AI systems** — context-aware agents with memory, task chaining, and LLM integration
+- **NLP pipelines** — fine-tuned Transformers for classification, detection, and inference
+- **ML APIs** — production-ready model serving with FastAPI, Docker, and observability
+
+---
+
+## ⚙️ Tech Stack
+
+**AI & ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+**Backend & Infra**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Audio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AudioBF&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AudioBF&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
+---
+
+## 📌 Background
+
+- 🎓 BSc in **Physics** — strong foundation in mathematics, linear algebra, and statistical modeling
+- 💻 Background in **Backend Engineering** and software development
+- 🤖 Now fully focused on **AI Engineering** — LLMs, Agentic AI, NLP, Deep Learning
+- 📍 Based in **Dublin, Ireland** · EU work authorized
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-audiofagundes-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/audiofagundes/)
+[![Email](https://img.shields.io/badge/Email-audiobf@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:audiobf@gmail.com)
