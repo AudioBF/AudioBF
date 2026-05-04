@@ -30,11 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AudioBF&theme=dark&hide_border=true)
----
-
 ## 📌 Background
 
 - 🎓 BSc in **Physics** — strong foundation in mathematics, linear algebra, and statistical modeling
